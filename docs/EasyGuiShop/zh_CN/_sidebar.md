@@ -1,0 +1,13 @@
+# EasyGuiShop
+* [首页](EasyGuiShop/zh_CN/README)
+* [首次安装](EasyGuiShop/zh_CN/install)
+* [**命令权限**](EasyGuiShop/zh_CN/command)
+* [**命令权限2**](EasyGuiShop/zh_CN/cm)
+* [**变量支持**](EasyGuiShop/zh_CN/papi)
+* [**新增功能**](EasyGuiShop/zh_CN/add)
+* [**有个栗子🌰**](EasyGuiShop/zh_CN/card)
+* [**功能帮助**](EasyGuiShop/zh_CN/help)
+* [**视频教程**](EasyGuiShop/zh_CN/video)
+* [**更新记录**](EasyGuiShop/zh_CN/log)
+* [**常见问题**](EasyGuiShop/zh_CN/problem)
+* [**我的作品**](EasyGuiShop/zh_CN/other)
